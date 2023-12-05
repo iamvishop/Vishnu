@@ -1,0 +1,68 @@
+body {
+    
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image:url(https://moewalls.com/wp-content/uploads/2023/10/planets-galaxy-stars-thumb.jpg);
+    background-size:1500px;
+    
+}
+
+.profile-container {
+    max-width: 600px;
+    margin: 50px auto;
+    background-image:url(https://i.pinimg.com/originals/62/5f/6c/625f6c7d8fd6c16694e05f0a6508259c.jpg) ;
+    background-size: 1200px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+}
+
+.profile-header {
+    text-align: center;
+}
+
+.profile-picture {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.profile-name {
+    margin: 0;
+    color: white;
+}
+
+.profile-bio {
+    margin: 5px 0;
+    color: white;
+}
+
+.profile-details {
+    margin-top: 20px;
+}
+
+.profile-details h2 {
+    color: white;
+}
+
+.profile-details p {
+    margin: 5px 0;
+    color: white;
+}
+.social-link {
+    display: inline-block;
+    margin: 0 8px;
+    padding: 8px 16px;
+    text-decoration: none;
+    color: #fff;
+    background-color:green;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+.social-link:hover {
+    background-color: #2980b9;
+}
